@@ -4,7 +4,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🉑 &nbsp; Fã de animes.
 - 🤓 &nbsp; Explorando tecnologias Javascript.
 - 🎓 &nbsp; Estudo Sistemas de Informação na Universidade Paulista - UNIP.
 - 💼 &nbsp; Desenvolvedor na Ambev Tech.
