@@ -7,7 +7,7 @@
 - 🉑 &nbsp; Fã de animes.
 - 🤓 &nbsp; Explorando tecnologias Javascript.
 - 🎓 &nbsp; Estudo Sistemas de Informação na Universidade Paulista - UNIP.
-- 💼 &nbsp; Trabalho como Desenvolvedor Júnior na Carambola Tecnologia.
+- 💼 &nbsp; Desenvolvedor na Ambev Tech.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
