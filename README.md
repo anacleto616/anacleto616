@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estudo Sistemas de Informação na Universidade Paulista - UNIP.
+- 🎓 &nbsp; Bacharel em Sistemas de Informação - Universidade Paulista - UNIP.
 - 💼 &nbsp; Desenvolvedor na Ambev Tech.
 
 <br/>
