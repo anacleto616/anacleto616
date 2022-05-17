@@ -1,11 +1,11 @@
-<h2> Oi, eu sou o Rafael! 👨‍💻</h2>
+<h2> Hello, I'm Rafael! 👨‍💻</h2>
 
 <img src="https://media.giphy.com/media/zoFBRfQo68Zqw/giphy.gif" />
 
-<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+<h3> 👨🏻‍💻 &nbsp;About me</h3>
 
-- 🎓 &nbsp; Bacharel em Sistemas de Informação - Universidade Paulista - UNIP.
-- 💼 &nbsp; Desenvolvedor na Ambev Tech.
+- 🎓 &nbsp; Graduate in Information Systems - Universidade Paulista - UNIP.
+- 💼 &nbsp; Developer at Ambev Tech.
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Conecte-se comigo</h3>
+<h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rafael-anacleto-da-silva-93b325177//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Anacleto%20da%20Silva-blue?style=flat-square&logo=linkedin"></a>
