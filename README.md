@@ -23,4 +23,4 @@
 <a href="mailto:arafael.anacleto12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rafael.anacleto12@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ Por [Rafael Anacleto](https://github.com/anacleto616)
+⭐️ By [Rafael Anacleto](https://github.com/anacleto616)
