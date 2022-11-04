@@ -1,11 +1,10 @@
-<h2> Olá, sou o Rafael! 👨‍💻</h2>
+<h2> Olá, sou o Rafael Anacleto! 👨‍💻</h2>
 
 <img src="https://media.giphy.com/media/zoFBRfQo68Zqw/giphy.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim</h3>
 
-- 🎓 &nbsp; Graduado em Sistemas de Informação - Universidade Paulista - UNIP.
-- 💼 &nbsp; Desenvolvedo na Ambev Tech.
+- 🎓 &nbsp; Bacharel em Sistemas de Informação - Universidade Paulista - UNIP.
 
 <br/>
 
