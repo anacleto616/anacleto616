@@ -2,10 +2,10 @@
 
 <img src="https://media.giphy.com/media/zoFBRfQo68Zqw/giphy.gif" />
 
-<h3> 👨🏻‍💻 &nbsp;Sobre mim</h3>
+<h3> 🙋‍♂️ &nbsp;Sobre mim</h3>
 
 - 🎓 Bacharel em Sistemas de Informação - Universidade Paulista - UNIP.
-- 🧑‍💻 Desenvolvedor a mais de 1 ano com foco Desenvolvimento Front end.
+- 🧑‍💻 Desenvolvedor a mais de 1 ano com foco em Desenvolvimento Front end.
 
 <h3>💻 &nbsp;Tecnologias:</h3>
 
