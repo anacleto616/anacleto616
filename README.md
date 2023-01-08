@@ -5,7 +5,7 @@
 <h3> 🙋‍♂️ &nbsp;Sobre mim</h3>
 
 - 🎓 Bacharel em Sistemas de Informação - Universidade Paulista - UNIP.
-- 🧑‍💻 Desenvolvedor a mais de 1 ano com foco em Desenvolvimento Front end.
+- 🧑‍💻 Desenvolvedor a mais de 1 ano.
 
 <h3>💻 &nbsp;Tecnologias:</h3>
 
