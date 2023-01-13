@@ -33,16 +33,7 @@
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 <br/>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-<br/>
 
-<p align="center">
-<a href="https://github.com/anacleto616">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=anacleto616&theme=darcula&show_icons=true" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacleto616&theme=darcula&layout=compact" />
-</a>
-</p>
-  
 <br/>
 
 <h3> 🤝🏻 &nbsp;Conecte-se comigo</h3>
