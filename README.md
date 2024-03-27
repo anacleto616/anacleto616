@@ -5,7 +5,7 @@
 ### 🙋‍♂️ &nbsp;Sobre mim
 
 - 🎓 Bacharel em Sistemas de Informação - Universidade Paulista - UNIP.
-- 🧑‍💻 Desenvolvedor há 2 anos.
+- 🧑‍💻 Desenvolvedor há quase 3 anos.
 
 ### 💻 &nbsp;Tecnologias:
 
