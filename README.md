@@ -1,6 +1,6 @@
 ## Olá, sou o Rafael Anacleto! 👨‍💻
 
-<img src="https://media.giphy.com/media/zoFBRfQo68Zqw/giphy.gif" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc3eXEybXFyOTJ5aG5qa3lwdTdudGlzenQ1MXFyaGowdmdiZXBxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ihf4yMV81xK/giphy.gif" />
 
 ### 🙋‍♂️ &nbsp;Sobre mim
 
