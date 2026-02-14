@@ -1,13 +1,13 @@
-## Olá, sou o Rafael Anacleto! 👨‍💻
+## Hi, I'm Rafael Anacleto! 👨‍💻
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc3eXEybXFyOTJ5aG5qa3lwdTdudGlzenQ1MXFyaGowdmdiZXBxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ihf4yMV81xK/giphy.gif" />
 
-### 🙋‍♂️ &nbsp;Sobre mim
+### 🙋‍♂️ &nbsp;About me
 
-- 🎓 Bacharel em Sistemas de Informação - Universidade Paulista - UNIP.
-- 🧑‍💻 Desenvolvedor há mais de 4 anos.
+- 🎓 Bachelor’s Degree in Information Systems – Universidade Paulista (UNIP)
+- 🧑‍💻 Software Engineer with over 4 years of experience.
 
-### 💻 &nbsp;Tecnologias:
+### 💻 &nbsp;Tech stack:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -34,11 +34,11 @@
 
 <br/>
 
-### 🤝🏻 &nbsp;Conecte-se comigo
+### 🤝🏻 &nbsp;Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rafael-anacleto-da-silva-93b325177//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Anacleto%20da%20Silva-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:rafael.anacleto12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rafael.anacleto12@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ Por [Rafael Anacleto](https://github.com/anacleto616)
+⭐️ By [Rafael Anacleto](https://github.com/anacleto616)
